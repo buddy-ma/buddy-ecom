@@ -1,0 +1,24 @@
+.flag {
+    width: 1.6rem;
+    height: 1.2rem;
+    display: inline-block;
+    background: no-repeat center/100% 100%;
+    vertical-align: bottom;
+    font-style: normal;
+}
+
+
+.flag-en {
+    background-image: url("../images/flags/gb.svg"); }
+
+.flag-ar {
+    background-image: url("../images/flags/ma.svg"); }
+
+.flag-fr {
+    background-image: url("../images/flags/fr.svg"); }
+
+
+.flags-icons .icons-list-item {
+    line-height: inherit; }
+.fe-flag:before {
+content: "\e966"; }

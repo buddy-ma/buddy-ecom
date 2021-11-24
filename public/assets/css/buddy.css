@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+.badge-success {
+    background: #35b53e;
+    color: #fff;
+}
+
+.badge-e3154f {
+    background: #e3154f;
+    color: #fff;
+}
+
+@media only screen and (max-width: 991px) {}
+
+@media only screen and (max-width: 1440px) {}
+
+@media only screen and (max-width: 1024px) {}
+
+@media only screen and (max-width: 1199px) and (min-width: 992px) {}
